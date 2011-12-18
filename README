@@ -1,0 +1,12 @@
+You can create Custom Authenticate Object In cakePHP 2.0.
+
+this is FacebookAuthenticate object class.
+
+this Authenticate uses OAuth Authenticate .
+
+cakePHP2.0では自由にAuthenticateオブジェクトを作成することができます。
+
+これはFacebookAuthenticateオブジェクトクラスです。
+
+OAuth認証を利用しています。
+
